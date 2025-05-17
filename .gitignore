@@ -1,0 +1,4 @@
+tree.dot
+tree.png
+venv/*
+/__pycache__
